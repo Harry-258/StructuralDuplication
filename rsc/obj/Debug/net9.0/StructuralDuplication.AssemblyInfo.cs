@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StructuralDuplication")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c4e6407548d042f78d4cfe1259caa246b71f7ce")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1a949a4b5ec5483fb45233f11e05d05c07d3f6f")]
 [assembly: System.Reflection.AssemblyProductAttribute("StructuralDuplication")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StructuralDuplication")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

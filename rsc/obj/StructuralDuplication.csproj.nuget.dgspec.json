@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Rider Projects\\StructuralDuplication\\rsc\\StructuralDuplication.csproj": {}
+    "/Users/harry/RiderProjects/StructuralDuplication/rsc/StructuralDuplication.csproj": {}
   },
   "projects": {
-    "D:\\Rider Projects\\StructuralDuplication\\rsc\\StructuralDuplication.csproj": {
+    "/Users/harry/RiderProjects/StructuralDuplication/rsc/StructuralDuplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Rider Projects\\StructuralDuplication\\rsc\\StructuralDuplication.csproj",
+        "projectUniqueName": "/Users/harry/RiderProjects/StructuralDuplication/rsc/StructuralDuplication.csproj",
         "projectName": "StructuralDuplication",
-        "projectPath": "D:\\Rider Projects\\StructuralDuplication\\rsc\\StructuralDuplication.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\Rider Projects\\StructuralDuplication\\rsc\\obj\\",
+        "projectPath": "/Users/harry/RiderProjects/StructuralDuplication/rsc/StructuralDuplication.csproj",
+        "packagesPath": "/Users/harry/.nuget/packages/",
+        "outputPath": "/Users/harry/RiderProjects/StructuralDuplication/rsc/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/harry/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.306/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

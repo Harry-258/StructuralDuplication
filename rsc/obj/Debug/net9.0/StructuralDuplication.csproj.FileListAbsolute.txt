@@ -1,0 +1,15 @@
+D:\Rider Projects\StructuralDuplication\rsc\bin\Debug\net9.0\StructuralDuplication.exe
+D:\Rider Projects\StructuralDuplication\rsc\bin\Debug\net9.0\StructuralDuplication.deps.json
+D:\Rider Projects\StructuralDuplication\rsc\bin\Debug\net9.0\StructuralDuplication.runtimeconfig.json
+D:\Rider Projects\StructuralDuplication\rsc\bin\Debug\net9.0\StructuralDuplication.dll
+D:\Rider Projects\StructuralDuplication\rsc\bin\Debug\net9.0\StructuralDuplication.pdb
+D:\Rider Projects\StructuralDuplication\rsc\obj\Debug\net9.0\StructuralDuplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rider Projects\StructuralDuplication\rsc\obj\Debug\net9.0\StructuralDuplication.AssemblyInfoInputs.cache
+D:\Rider Projects\StructuralDuplication\rsc\obj\Debug\net9.0\StructuralDuplication.AssemblyInfo.cs
+D:\Rider Projects\StructuralDuplication\rsc\obj\Debug\net9.0\StructuralDuplication.csproj.CoreCompileInputs.cache
+D:\Rider Projects\StructuralDuplication\rsc\obj\Debug\net9.0\StructuralDuplication.sourcelink.json
+D:\Rider Projects\StructuralDuplication\rsc\obj\Debug\net9.0\StructuralDuplication.dll
+D:\Rider Projects\StructuralDuplication\rsc\obj\Debug\net9.0\refint\StructuralDuplication.dll
+D:\Rider Projects\StructuralDuplication\rsc\obj\Debug\net9.0\StructuralDuplication.pdb
+D:\Rider Projects\StructuralDuplication\rsc\obj\Debug\net9.0\StructuralDuplication.genruntimeconfig.cache
+D:\Rider Projects\StructuralDuplication\rsc\obj\Debug\net9.0\ref\StructuralDuplication.dll

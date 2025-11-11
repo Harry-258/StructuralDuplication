@@ -1,6 +1,6 @@
 # StructuralDuplication
 
-This is a script that finds all the methods that have a single parameter in a C# script, and duplicates that parameter. It gives it the same name, but ended with '2'.
+This is a script that that analyzes a C# source file, finds all methods with a single parameter, and duplicates that parameter. The duplicated parameter has the same type, and the name is the original parameter name suffixed by 2. It uses the Roslyn API to find the parameters and change the code.
 
 ## Getting started
 

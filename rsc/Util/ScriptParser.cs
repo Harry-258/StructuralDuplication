@@ -18,10 +18,10 @@ public static class ScriptParser
         var scriptText = File.ReadAllText(scriptPath);
         var tree = CSharpSyntaxTree.ParseText(scriptText);
         var root = tree.GetRoot();
-        
+
         var methods = root.DescendantNodes().OfType<MethodDeclarationSyntax>();
         var replacedMethods = new Dictionary<MethodDeclarationSyntax, MethodDeclarationSyntax>();
-        
+
         foreach (var method in methods)
         {
             var parameters = method.ParameterList.Parameters;
@@ -29,14 +29,14 @@ public static class ScriptParser
             {
                 var parameterName = parameters[0].Identifier;
                 var parameterType = parameters[0].Type;
-                
+
                 var newParameter = Parameter(Identifier(parameterName + "2")).WithType(parameterType);
                 var newMethod = method.AddParameterListParameters(newParameter);
-                
+
                 replacedMethods.Add(method, newMethod);
             }
         }
-        
+
         var newRoot = root.ReplaceNodes(replacedMethods.Keys, (oldNode, _) => replacedMethods[oldNode]);
         return newRoot.NormalizeWhitespace().ToFullString();
     }

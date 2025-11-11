@@ -1,0 +1,54 @@
+using System;
+using System.Collections.Generic;
+
+namespace StructuralDuplication
+{
+    public static class Program
+    {
+        /// <summary>Should change this</summary>
+        /// <param name = "args">The arguments passed to the script</param>
+        public static void Main(string[] args)
+        {
+            Console.WriteLine("hello");
+        }
+
+        public static string ShouldChangeThisOne(int number)
+        {
+            // Comment
+            return -1;
+        }
+
+        public static void ShouldNotBeChanged(int[] first, double[] second, bool third)
+        {
+            Console.WriteLine("pretty cool");
+        }
+
+        public static void empty()
+        {
+        }
+    }
+
+    public enum MyEnum
+    {
+        First,
+        Second,
+        Third
+    }
+
+    private static class MyClass
+    {
+        public static bool ShouldChangeThis(bool returnThis)
+        {
+            return returnThis;
+        }
+
+        // Comment
+        private static class MyNestedClass
+        {
+            private static void ShouldAlsoChangeThis(List<int> intList)
+            {
+                Console.WriteLine("List of length " + intList.Count);
+            }
+        }
+    }
+}

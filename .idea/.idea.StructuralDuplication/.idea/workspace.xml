@@ -8,10 +8,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc9bf511-9aea-4625-8255-7342b52df3c0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/rsc/Util/FileParser.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Util/ScriptParserTestInput.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Util/ScriptParserTests.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.StructuralDuplication/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.StructuralDuplication/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rsc/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/rsc/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rsc/StructuralDuplication.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/rsc/StructuralDuplication.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/StructuralDuplication.Tests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/tests/StructuralDuplication.Tests.csproj" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +24,9 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/3835d30bd21d4724a6cc6336e2ae58bef1a3f927c212854c6714ba5a8f6d974/SyntaxNodeExtensions.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/acde6c719a1bd620686cd41ef5eb8b7c5e483631a2d1ce099378cef790e824/SeparatedSyntaxList.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/rsc/Util/FileParser.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/rsc/Util/ScriptParser.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/tests/Util/ScriptParserTestInput.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/tests/Util/ScriptParserTests.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="Toolset" />
@@ -40,18 +42,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "main",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="cc9bf511-9aea-4625-8255-7342b52df3c0" name="Changes" comment="" />
@@ -60,6 +65,9 @@
       <option name="presentableId" value="Default" />
       <updated>1762772881494</updated>
       <workItem from="1762772882618" duration="57000" />
+      <workItem from="1762855236585" duration="580000" />
+      <workItem from="1762858424714" duration="1007000" />
+      <workItem from="1762859455536" duration="1971000" />
     </task>
     <servers />
   </component>
